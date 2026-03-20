@@ -1,2 +1,3 @@
-# open-knowledge-base-fn32
-Automated issue comment bot repository
+# Open Knowledge Base Fn32
+
+Automated issue comment bot repository.
